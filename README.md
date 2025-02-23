@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathyics
-- 👀 I’m interested in AI Dev
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... vyashwanth179@gmail.com
